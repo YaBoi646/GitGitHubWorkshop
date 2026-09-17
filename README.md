@@ -3,6 +3,6 @@
 Author: Henry
 Date: 9/17/2026
 
-g
+the guy
 
-![g](images/g.jpg)
+![Winnie The Pooh](images\Winniethepooh.png)
