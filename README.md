@@ -3,6 +3,6 @@
 Author: Henry
 Date: 9/17/2026
 
-g
+p i g
 
-![g](images/g.jpg)
+![piglet](images\piglet.jpeg)
