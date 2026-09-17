@@ -3,4 +3,6 @@
 Author: Henry
 Date: 9/17/2026
 
-you aint gettin any hints
+g
+
+![g](images/g.jpg)
